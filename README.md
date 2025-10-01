@@ -1,8 +1,10 @@
 # 👋 Hi there! I'm Ruano
 
-💻 Software Engineering | 13+ years of experience in back-end (.NET)  
+💻 Software Architect | 13+ years of experience in back-end (Java & .NET)  
 🚀 Focused on architecture, best practices, and scalable solutions  
-📌 Currently working with C# (.NET)
+📌 Currently working with C# (.NET), with a strong background in Java  
+
+![Coding GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
@@ -19,14 +21,22 @@
 
 ---
 
-## ✨ About me
+## 🛠️ My Skills
 
-- 🏗️ Experienced in software architecture, system integration, and cloud-native solutions  
-- 💡 Strong believer in principles like SOLID, DDD, and Hexagonal Architecture  
-- 🔄 Interested in messaging systems, scalability, and integration best practices  
-- 📚 Always learning and keeping up with technology trends  
-- ☕ Coffee, clean code, and architecture books are part of my daily routine  
-- 📈 Long-term investor (REITs and dividend-focused stocks)
+**C# / .NET**  
+![C#](https://img.shields.io/badge/Skill-95%25-brightgreen)
+
+**Java**  
+![Java](https://img.shields.io/badge/Skill-90%25-brightgreen)
+
+**Cloud (AWS, Docker, Kubernetes)**  
+![Cloud](https://img.shields.io/badge/Skill-85%25-brightgreen)
+
+**Microservices / Messaging (RabbitMQ)**  
+![Microservices](https://img.shields.io/badge/Skill-85%25-brightgreen)
+
+**Architecture & Design Patterns (SOLID, DDD, Hexagonal)**  
+![Architecture](https://img.shields.io/badge/Skill-90%25-brightgreen)
 
 ---
 
@@ -43,7 +53,16 @@
 ## 📊 GitHub Stats
 
 ![Ruano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruano&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruano&layout=compact&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruano&layout=compact&theme=dracula)
+
+---
+
+## ☕ Hobbies & Interests
+
+- Long-term investing (REITs & dividend stocks)  
+- Coffee lover ☕  
+- Exploring new tech and architecture patterns  
+- Reading books on software design and clean code  
 
 ---
 
