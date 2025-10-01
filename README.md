@@ -62,7 +62,8 @@
 - Long-term investing (REITs & dividend stocks)  
 - Coffee lover ☕  
 - Exploring new tech and architecture patterns  
-- Reading books on software design and clean code  
+- Reading books on software design and clean code
+- Physical exercise & cycling 🚴‍♂️
 
 ---
 
