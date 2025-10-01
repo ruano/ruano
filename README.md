@@ -1,17 +1,12 @@
-# 👋 Olá! / Hi there! I'm Ruano
+# 👋 Hi there! I'm Ruano
 
-💻 Arquiteto de Software | 13+ anos de experiência em back-end (Java & .NET)  
-💻 Software Architect | 13+ years of experience in back-end (Java & .NET)
-
-🚀 Foco em arquitetura, boas práticas e soluções escaláveis  
-🚀 Focused on architecture, best practices, and scalable solutions
-
-📌 Atualmente trabalhando com C# (.NET), com sólida experiência em Java  
+💻 Software Architect | 13+ years of experience in back-end (Java & .NET)  
+🚀 Focused on architecture, best practices, and scalable solutions  
 📌 Currently working with C# (.NET), with a strong background in Java
 
 ---
 
-## 🔧 Tecnologias & Ferramentas / Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -24,53 +19,39 @@
 
 ---
 
-## ✨ Sobre mim / About me
+## ✨ About me
 
-- 🏗️ Experiência em arquitetura de software, integração e soluções cloud-native  
 - 🏗️ Experienced in software architecture, system integration, and cloud-native solutions  
-
-- 💡 Defensor de princípios como SOLID, DDD e Arquitetura Hexagonal  
 - 💡 Strong believer in principles like SOLID, DDD, and Hexagonal Architecture  
-
-- 🔄 Interesse em mensageria, escalabilidade e boas práticas de integração  
 - 🔄 Interested in messaging systems, scalability, and integration best practices  
-
-- 📚 Sempre aprendendo e acompanhando novidades em tecnologia  
 - 📚 Always learning and keeping up with technology trends  
-
-- ☕ Café, código limpo e livros de arquitetura fazem parte da minha rotina  
 - ☕ Coffee, clean code, and architecture books are part of my daily routine  
-
-- 📈 Investidor de longo prazo (FIIs e ações focadas em dividendos)  
-- 📈 Long-term investor (REITs and dividend-focused stocks)  
+- 📈 Long-term investor (REITs and dividend-focused stocks)
 
 ---
 
-## 🚀 Projetos em destaque / Featured Projects
+## 🚀 Featured Projects
 
-| Projeto | Descrição | Link |
+| Project | Description | Link |
 |---------|-----------|------|
-| [Exemplo API](https://github.com/YOUR_USERNAME/EXEMPLO_API) | API RESTful em C# com padrões de arquitetura limpa | 🔗 Acessar |
-| [Microservices Sample](https://github.com/YOUR_USERNAME/MICROSERVICES_SAMPLE) | Exemplo de microsserviços com mensageria e Docker | 🔗 Acessar |
-| [Portfolio](https://github.com/YOUR_USERNAME/PORTFOLIO) | Portfólio pessoal com projetos e estudos | 🔗 Acessar |
+| [Example API](https://github.com/ruano/EXAMPLE_API) | RESTful API in C# following clean architecture | 🔗 Access |
+| [Microservices Sample](https://github.com/ruano/MICROSERVICES_SAMPLE) | Microservices example with messaging and Docker | 🔗 Access |
+| [Portfolio](https://github.com/ruano/PORTFOLIO) | Personal portfolio with projects and studies | 🔗 Access |
 
 ---
 
-## 📊 Estatísticas / GitHub Stats
+## 📊 GitHub Stats
 
-![Ruano's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)  
-
----
-
-## 📫 Contato / Get in touch
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ruano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINK)](https://linkedin.com/in/YOUR-LINK)  
-[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:YOURMAIL@gmail.com)](mailto:YOURMAIL@gmail.com)  
+![Ruano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruano&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruano&layout=compact&theme=dracula)  
 
 ---
 
-✨ *"Acredito que bons sistemas são construídos com código limpo, colaboração e visão de futuro."*  
+## 📫 Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ruano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruano-martinez)](https://www.linkedin.com/in/ruano-martinez)  
+[![Gmail Badge](https://img.shields.io/badge/-ruano.martinez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ruano.martinez@gmail.com)](mailto:ruano.martinez@gmail.com)
+
+---
+
 ✨ *"I believe great systems are built with clean code, collaboration, and a forward-looking vision."*
-
----
