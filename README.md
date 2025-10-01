@@ -40,6 +40,7 @@
 
 ---
 
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
@@ -49,6 +50,7 @@
 | [Portfolio](https://github.com/ruano/PORTFOLIO) | Personal portfolio with projects and studies | 🔗 Access |
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
