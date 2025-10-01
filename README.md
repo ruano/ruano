@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Ruano
 
-💻 Software Architect | 13+ years of experience in back-end (Java & .NET)  
+💻 Software Engineering | 13+ years of experience in back-end (.NET)  
 🚀 Focused on architecture, best practices, and scalable solutions  
-📌 Currently working with C# (.NET), with a strong background in Java
+📌 Currently working with C# (.NET)
 
 ---
 
