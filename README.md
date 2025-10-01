@@ -32,6 +32,9 @@
 **Cloud (AWS, Docker, Kubernetes)**  
 ![Cloud](https://img.shields.io/badge/Skill-40%25-yellow)
 
+**Kafka**  
+![Kafka](https://img.shields.io/badge/Skill-10%25-red)
+
 ---
 
 ## 🚀 Featured Projects
