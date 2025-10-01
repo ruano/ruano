@@ -1,16 +1,13 @@
 # 👋 Hi there! I'm Ruano
 
-💻 Software Architect | 13+ years of experience in back-end (Java & .NET)  
+💻 Software Architect | 13+ years of experience in back-end (C# & .NET)  
 🚀 Focused on architecture, best practices, and scalable solutions  
-📌 Currently working with C# (.NET), with a strong background in Java  
-
-![Coding GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+📌 Currently working with C# (.NET)  
 
 ---
 
 ## 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -24,10 +21,7 @@
 ## 🛠️ My Skills
 
 **C# / .NET**  
-![C#](https://img.shields.io/badge/Skill-95%25-brightgreen)
-
-**Java**  
-![Java](https://img.shields.io/badge/Skill-90%25-brightgreen)
+![C# / .NET](https://img.shields.io/badge/Skill-95%25-brightgreen)
 
 **Cloud (AWS, Docker, Kubernetes)**  
 ![Cloud](https://img.shields.io/badge/Skill-85%25-brightgreen)
@@ -69,8 +63,4 @@
 ## 📫 Get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ruano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruano-martinez)](https://www.linkedin.com/in/ruano-martinez)  
-[![Gmail Badge](https://img.shields.io/badge/-ruano.martinez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ruano.martinez@gmail.com)](mailto:ruano.martinez@gmail.com)
-
----
-
-✨ *"I believe great systems are built with clean code, collaboration, and a forward-looking vision."*
+[![Gmail Badge](https://img.shields.io/badge/-ruano.martinez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ruano.martinez@gmail.com)]()
