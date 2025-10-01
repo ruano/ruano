@@ -35,8 +35,8 @@
 **GraphQL (Studying)**  
 ![GraphQL](https://img.shields.io/badge/Skill-20%25-orange)
 
-**New Tech / Experimenting**  
-![New Tech](https://img.shields.io/badge/Skill-10%25-red)
+**Azure / GCP**  
+![Azure / GCP](https://img.shields.io/badge/Skill-10%25-red)
 
 ---
 
