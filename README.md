@@ -30,7 +30,7 @@
 ![Architecture](https://img.shields.io/badge/Skill-90%25-brightgreen)
 
 **Cloud (AWS, Docker, Kubernetes)**  
-![Cloud](https://img.shields.io/badge/Skill-40%25-brightgreen)
+![Cloud](https://img.shields.io/badge/Skill-40%25-yellow)
 
 ---
 
