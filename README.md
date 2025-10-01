@@ -23,17 +23,20 @@
 **C# / .NET**  
 ![C# / .NET](https://img.shields.io/badge/Skill-95%25-brightgreen)
 
-**Architecture & Design Patterns (SOLID, DDD, Hexagonal)**  
-![Architecture](https://img.shields.io/badge/Skill-90%25-brightgreen)
+**Cloud (AWS, Docker, Kubernetes)**  
+![Cloud](https://img.shields.io/badge/Skill-85%25-green)
 
 **Microservices / Messaging (RabbitMQ)**  
-![Microservices](https://img.shields.io/badge/Skill-85%25-brightgreen)
+![Microservices](https://img.shields.io/badge/Skill-40%25-yellow)
 
-**Cloud (AWS, Docker, Kubernetes)**  
-![Cloud](https://img.shields.io/badge/Skill-40%25-yellow)
+**GraphQL (Studying)**  
+![GraphQL](https://img.shields.io/badge/Skill-20%25-orange)
 
-**Kafka**  
-![Kafka](https://img.shields.io/badge/Skill-10%25-red)
+**New Tech / Experimenting**  
+![New Tech](https://img.shields.io/badge/Skill-10%25-red)
+
+**Architecture & Design Patterns (SOLID, DDD, Hexagonal)**  
+![Architecture](https://img.shields.io/badge/Skill-90%25-brightgreen)
 
 ---
 
